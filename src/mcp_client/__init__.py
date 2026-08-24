@@ -1,0 +1,1 @@
+"""MCP client and AI-agent package."""
